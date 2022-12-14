@@ -3,7 +3,7 @@
 Udmey : Event-Driven Microservices: Spring Boot, Kafka and Elastic
 
 ##Microservices :
-####Independent development, independent deployment and scalable services.
+Independent development, independent deployment and scalable services.
 -----------------
 ##Learning  Objectives
 - Spring boot and Spring cloud stack

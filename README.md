@@ -1,11 +1,11 @@
 # SpringEventDrivenMicroservices
 Udmey : Event-Driven Microservices: Spring Boot, Kafka and Elastic 
 
-### Main Objectives & Benefits
+# Main Objectives
 
-Microservices: Independent development, independent deployment and scalable services
-Spring boot and Spring cloud stack
-Microservices patterns:
+###Microservices: Independent development, independent deployment and scalable services
+###Spring boot and Spring cloud stack
+##M#icroservices patterns:
        - Externalized configuration -> spring cloud config
        - Api versioning 
        - Service discovery -> eureka
@@ -17,7 +17,7 @@ Microservices patterns:
        - Authentication / Authorization with oauth 2 and open id connect -> Keycloak authz server
        - Monitoring -> Prometheus & Grafana
        - Distributed tracing, log aggregation and visualization -> Logstash & Kibana
-Kafka -> Brokers, topics, partitions, producer, consumer, spring kafka
-Elasticsearch -> Index api, query api, spring elastic data
-Containerization with docker -> Perfect match for microservices & Ready to ship application any cloud solution
-Reactive development
+###Kafka -> Brokers, topics, partitions, producer, consumer, spring kafka
+###Elasticsearch -> Index api, query api, spring elastic data
+###Containerization with docker -> Perfect match for microservices & Ready to ship application any cloud solution
+###Reactive development
